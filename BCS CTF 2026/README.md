@@ -2,6 +2,8 @@
 
 Here are my writeups on BCS CTF 2026 OSINT, Misc, Web and Forensics.
 
+[![Views](https://visitor-badge.laobi.icu/badge?page_id=Writeups-Walkthroughs/tree/main/BCS%20CTF%202026)](https://github.com/InferiorAK/Writeups-Walkthroughs/tree/main/BCS%20CTF%202026)
+
 ## Challenge Covered
 
 - **[OSINT](#osint)**
