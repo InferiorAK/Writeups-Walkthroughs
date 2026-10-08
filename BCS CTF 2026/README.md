@@ -4,27 +4,27 @@ Here are my writeups on BCS CTF 2026 OSINT, Misc, Web and Forensics.
 
 ## Challenge Covered
 
-- **OSINT**
-    - **Residual**
-    - **3 Words**
-    - **No Route No Network**
-    - **Reach Forums (Partial)**
-- **Misc**
-    - **Old 80s Trend**
-- **Crypto**
-    - **Broken QR**
-- **Web**
-    - **No Route No Network**
-    - **Reach Forums**
-- **Forensics**
-    - **Forensic Challenge 1.0**
-    - **Forensic Challenge 2.0**
-    - **Forensic Challenge 4.0**
-    - **Forensic Challenge 5.0**
-    - **Forensic Challenge 7.0**
-    - **Forensic Challenge 8.0**
-    - **Forensic Challenge 9.0**
-    - **Forensic Challenge 10.0**
+- **[OSINT](#osint)**
+    - [**Residual**](#residual)
+    - [**3 Words**](#3-words)
+    - [**No Route No Network**](#no-route-no-network)
+    - [**Reach Forums (Partial)**](#reach-forums)
+- **[Misc](#misc)**
+    - [**Old 80s Trend**](#old-80s-trend)
+- **[Crypto](#crypto)**
+    - [**Broken QR**](#broken-qr)
+- **[Web](#web)**
+    - [**No Route No Network**](#no-route-no-network)
+    - [**Reach Forums**](#reach-forums)
+- **[Forensics](#forensics)**
+    - [**Forensic Challenge 1.0**](#forensic-challenge-10)
+    - [**Forensic Challenge 2.0**](#forensic-challenge-20)
+    - [**Forensic Challenge 4.0**](#forensic-challenge-40)
+    - [**Forensic Challenge 5.0**](#forensic-challenge-50)
+    - [**Forensic Challenge 7.0**](#forensic-challenge-70)
+    - [**Forensic Challenge 8.0**](#forensic-challenge-80)
+    - [**Forensic Challenge 9.0**](#forensic-challenge-90)
+    - [**Forensic Challenge 10.0**](#forensic-challenge-100)
 
 ---
 
