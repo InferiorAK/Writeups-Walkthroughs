@@ -17,6 +17,14 @@ Here are my writeups on BCS CTF 2026 OSINT, Misc, Web and Forensics.
     - **No Route No Network**
     - **Reach Forums**
 - **Forensics**
+    - **Forensic Challenge 1.0**
+    - **Forensic Challenge 2.0**
+    - **Forensic Challenge 4.0**
+    - **Forensic Challenge 5.0**
+    - **Forensic Challenge 7.0**
+    - **Forensic Challenge 8.0**
+    - **Forensic Challenge 9.0**
+    - **Forensic Challenge 10.0**
 
 ---
 
@@ -451,26 +459,6 @@ Your objective is to analyze this starting point and extract data that could exp
 
 ## Forensics
 
-```bash
-
-Invoice URL Question
-
-│ What is the full URL of the invoice document accessed by the user arif that routes to the c2-gateway host on port 8080?
-──────
-
-Project-Orion Deleted File Question
-
-│ What is the original filename of the deleted file that initially existed under the directory C:\Users\rahim\Documents\Project-Orion?
-──────
-
-Question 10
-
-│ An automated alert flagged a leaked financial schema from a corporate accounting workstation. The primary target directory, containing upcoming projects sensitive information that were compromised. To
-│ prove corporate espionage, your assignment to extract information from the artifact and solve all forensic challenges from 1 to 10.
-│ Question 10: Extract the cryptographic credentials for the user rahim: Provide their NTLM hash string and their plaintext login password.
-│ Flag format: bcsctf{NTLM HASH, PASSWORD}
-```
-
 ### Forensic Challenge 1.0
 
 > **An automated alert flagged a leaked financial schema from a corporate accounting workstation. The primary target directory, containing upcoming projects sensitive information that were compromised. To prove corporate espionage, your assignment to extract information from the artifact and solve all forensic challenges from 1 to 10.
@@ -825,3 +813,15 @@ Question 1: What was the Computer Hostname?**
     $Password = ConvertTo-SecureString "123" -AsPlainText -Force
     Set-LocalUser -Name "forensic" -Password $Password
     ```
+
+---
+
+### My Links
+
+- [**Team Site**](https://integratedhawkers.com)
+- [**Team LinkedIn**](https://linkedin.com/company/integratedhawkers)
+- [**GitHub**](https://github.com/InferiorAK)
+- [**Medium**](https://medium.com/@InferiorAK)
+- [**YouTube**](https://youtube.com/@InferiorAK)
+- [**Facebook**](https://facebook.com/InferiorAK)
+- [**Twitter**](https://twitter.com/InferiorAK)
