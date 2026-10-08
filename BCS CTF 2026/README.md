@@ -7,8 +7,6 @@ Here are my writeups on BCS CTF 2026 OSINT, Misc, Web and Forensics.
 - **[OSINT](#osint)**
     - [**Residual**](#residual)
     - [**3 Words**](#3-words)
-    - [**No Route No Network**](#no-route-no-network)
-    - [**Reach Forums (Partial)**](#reach-forums)
 - **[Misc](#misc)**
     - [**Old 80s Trend**](#old-80s-trend)
 - **[Crypto](#crypto)**
