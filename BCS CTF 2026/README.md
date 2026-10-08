@@ -454,6 +454,8 @@ Your objective is to analyze this starting point and extract data that could exp
     
     ![image.png](image%2012.png)
     
+> **Note:** I couldn’t fully solve this challenge, so I gave it until this...
+>
 
 ---
 
